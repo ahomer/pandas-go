@@ -26,4 +26,4 @@ Just clone the the repo or open the python files.
 
 # License
 
-This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/Microsoft/LightGBM/blob/master/LICENSE) for additional details.
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/ahomer/pandas-go/blob/master/LICENSE) for additional details.
