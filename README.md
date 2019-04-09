@@ -17,12 +17,12 @@ Just clone the the repo or open the python files.
 
 ### Content
 
-1.loading
-2.filter
-3.dropna
-4.apply
-5.merge
-6.plot
+1. loading
+2. filter
+3. dropna
+4. apply
+5. merge
+6. plot
 
 # License
 
