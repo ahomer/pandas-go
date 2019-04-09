@@ -5,7 +5,7 @@ Content for pandas programing.Just cover the mostly pandas api.
 ### Prerequisites
 
 You need to install python,such as python 3 from https://www.python.org/.
-And you should the pandas using pip.
+And you should install the pandas using pip.
 
 ```
 pip install pandas
