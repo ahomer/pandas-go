@@ -5,15 +5,16 @@ Content for pandas programing.Just cover the mostly pandas api.
 ### Prerequisites
 
 You need to install python,such as python 3 from https://www.python.org/.
-And you should install the pandas using pip.
+Then you can install the pandas and jupyter using pip.
 
 ```
 pip install pandas
+pip install jupyter
 ```
 
 ### Getting Started
 
-Just clone the the repo or open the python files.
+Just clone the the repo or open the notebook files.
 
 ### Content
 
