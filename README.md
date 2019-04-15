@@ -14,7 +14,7 @@ pip install jupyter
 
 ### Getting Started
 
-Just clone the the repo or open the notebook files.
+Just clone the the repo and open the notebook.
 
 ### Content
 
